@@ -1,4 +1,7 @@
 #!/bin/bash
+#echo "a" >> temp.txt
+PR=$(sudo pcsensor -c)
 
-TEMPERATURE="$(( ( RANDOM % 100 )  + 1 ))"
-./connect.py "$TEMPERATURE"
+echo "temp $PR" >> /home/fanny/share/codes/Bash/OPS/temp.txt
+
+/home/fanny/share/codes/Bash/OPS/connect.py "$PR"

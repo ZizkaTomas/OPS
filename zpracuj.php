@@ -8,7 +8,7 @@ ini_set('display_errors', 1);
 
 //$user = $_POST['user'];
 //$passwd = $_POST['passwd'];
-$temperature = @intval($_POST['temperature']);
+$temperature = $_POST['temperature'];
 
 //echo $user;
 //echo $passwd;
@@ -30,7 +30,7 @@ echo "actual temperature = ".$temperature." <br>";
     $ret = $conn->exec($sql);
 //    print_r($ret);
 }
-	$ret=$conn->prepare("select * from records");
+	$ret=$conn->prepare("select * from records order by id desc limit 1");
 	$ret->execute();
 	$result = $ret->fetchAll();
 	echo "<br>";
