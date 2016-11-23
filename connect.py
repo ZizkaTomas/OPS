@@ -3,10 +3,7 @@
 import urllib.request, urllib.parse, urllib.error, sys, os
 
 """
-data = {'user' : 'james','passwd' : 'blaba', 'temperature' : '1'}
-data = bytes( urllib.parse.urlencode( data ).encode() )
-handler = urllib.request.urlopen( 'http://silenyprojekt.4fan.cz/zpracuj.php', data )
-print( handler.read().decode( 'utf-8' ) )
+Get arg, set data and create POST request
 
 """
 details = urllib.parse.urlencode({'user' : 'b', 'passwd' : 'a', 'temperature' : sys.argv[1]})
