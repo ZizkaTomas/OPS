@@ -7,5 +7,17 @@
 ## TODO list
 - [x] Init commit
 - [ ] Prestat se flakat
-- [ ] Zpracovani dat z teplotniho senzoru
+- [x] Zpracovani dat z teplotniho senzoru
 - [ ] Akce pro uzivatele (email, web)
+
+# PRINCIP FUNGOVANI
+
+## SOUBORY
+
+CRONTAB - run temperature.sh with sudo rights
+
+TEMPERATURE.SH - get temperature from usb sensor, run connect.py with temperature as param
+
+CONNECT.PY - connect to the web, POST temperature into zpracuj.php
+
+ZPRACUJ.PHP - connect to the MySQL db, insert temperature with id and current date
