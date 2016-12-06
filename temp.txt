@@ -88,3 +88,464 @@ temp 24.00
 temp 23.94
 temp 23.94
 temp 23.94
+temp 23.94
+temp 32.62
+temp 28.69
+temp 27.00
+temp 25.94
+temp 25.06
+temp 24.62
+temp 24.81
+temp 24.56
+temp 24.44
+temp 24.38
+temp 24.25
+temp 24.19
+temp 24.19
+temp 24.12
+temp 24.06
+temp 24.12
+temp 24.19
+temp 24.19
+temp 24.12
+temp 24.12
+temp 24.19
+temp 24.19
+temp 24.19
+temp 24.19
+temp 24.25
+temp 24.19
+temp 24.19
+temp 24.19
+temp 24.19
+temp 24.12
+temp 24.19
+temp 24.19
+temp 24.19
+temp 24.12
+temp 24.19
+temp 24.19
+temp 24.19
+temp 24.12
+temp 24.06
+temp 24.12
+temp 24.06
+temp 24.00
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
+temp Couldn't find the USB device, Exiting
