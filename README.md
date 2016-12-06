@@ -4,6 +4,8 @@
 
 **Odkaz na diskuzni vlakno na [elearningu](https://elearning.tul.cz/mod/forum/discuss.php?d=944&mode=1).**
 
+**[Odkaz na web s db, kam se ukladaji teploty](http://silenyprojekt.4fan.cz/zpracuj.php).**
+
 ## TODO list
 - [x] Init commit
 - [ ] Prestat se flakat
