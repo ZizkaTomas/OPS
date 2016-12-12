@@ -13,6 +13,10 @@
 - [ ] Akce pro uzivatele (email, web)
 
 # PRINCIP FUNGOVANI
+```
+crontab -e
+1/* * * * * /path/to/file/temperature.sh
+```
 
 ## SOUBORY
 
