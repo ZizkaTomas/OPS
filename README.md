@@ -18,11 +18,6 @@ crontab -e
 1/* * * * * /path/to/file/temperature.sh
 ```
 
-```
-crontab -e
-1/* * * * * /path/to/file/temperature.sh
-```
-
 ## SOUBORY
 ```
 kompilovany pcsensor je ulozen v /bin pro spusteni odkudkoliv
