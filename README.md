@@ -13,6 +13,10 @@
 - [ ] Akce pro uzivatele (email, web)
 
 # PRINCIP FUNGOVANI
+```
+crontab -e
+1/* * * * * /path/to/file/temperature.sh
+```
 
 ```
 crontab -e
@@ -20,7 +24,9 @@ crontab -e
 ```
 
 ## SOUBORY
-
+```
+kompilovany pcsensor je ulozen v /bin pro spusteni odkudkoliv
+```
 CRONTAB - run temperature.sh with sudo rights
 
 TEMPERATURE.SH - get temperature from usb sensor, run connect.py with temperature as param

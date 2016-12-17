@@ -5,7 +5,7 @@
 PR=$(sudo pcsensor -c)
 
 # control echo
-echo "temp $PR" >> /home/fanny/share/codes/Bash/OPS/temp.txt
+echo "temp $PR" >> /home/pi/projekt/OPS/temp.txt
 
 # run connect.py with temperature as arg
-/home/fanny/share/codes/Bash/OPS/connect.py "$PR"
+/home/pi/projekt/OPS/connect.py "$PR"
