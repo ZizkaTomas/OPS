@@ -8,16 +8,49 @@
 
 ## TODO list
 - [x] Init commit
-- [ ] Prestat se flakat
+- [x] Prestat se flakat
 - [x] Zpracovani dat z teplotniho senzoru
-- [ ] Akce pro uzivatele (email, web)
+- [x] email
+- [ ] web
 
 # PRINCIP FUNGOVANI
 ```
 crontab -e
 1/* * * * * /path/to/file/temperature.sh
 ```
+#Email 
+Vytvořil jsem účet na gmail:
+```
+email:teplota.projekt@gmail.com
+heslo:heslo123
+```
+Instalace potřebných prográmků:
+```
+sudo apt-get install ssmtp
+sudo apt-get install mailutils
+```
+Úprava konfigurace ssmtp:
+```
+nano /etc/ssmtp/ssmtp.conf
 
+root=postmaster
+mailhub=smtp.gmail.com:587
+hostname=raspberrypi
+AuthUser=teplota.projekt@gmail.com
+AuthPass=heslo123
+FromLineOverride=YES
+UseSTARTTLS=YES
+```
+```
+nano /etc/ssmtp/revaliases
+pi:pi@raspberrypi:smtp.gmail.com:587
+
+```
+Příkaz pro odeslání aktuální teploty na email:
+```
+echo "Aktuální teplota je: $(sudo pcsensor-c)°C" | mail -s "TEPLOTA" teplota.projekt@gmail.com
+
+```
 ## SOUBORY
 ```
 kompilovany pcsensor je ulozen v /bin pro spusteni odkudkoliv
